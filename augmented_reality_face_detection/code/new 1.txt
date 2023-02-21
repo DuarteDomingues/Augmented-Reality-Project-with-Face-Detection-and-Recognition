@@ -1,0 +1,25 @@
+- SGD -> regularização linear com descida de gradiente estocástica
+
+
+
+forward pass:
+
+weighted sum dos inputs dados os neuronios
+
+erro:
+
+Mean Squared Error Sumatorio (yi - y1 estimado) elevado 2
+
+backward pass:
+
+
+optimizer -> algoritmo para minimizar a função de erro.
+
+Gradient descent
+
+
+Optimizaçao algoritmo
+
+Convex function and tweeak dos parametros iterativamente para minimizar uma função para o seu minimo local
+
+Loss function -> Computa a distância entre o output atual do algoritmo e o output esperado.
