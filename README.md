@@ -1,6 +1,7 @@
 # Augmented-Reality-Project-with-Face-Detection-and-Recognition
 Computer vision application for face detection and recognition that allows the inclusion of virtual elements aligned with real objects.
 
+---
 
 ### This project allows:
 
